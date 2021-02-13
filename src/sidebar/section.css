@@ -1,0 +1,20 @@
+.section {
+  display: flex;
+  justify-content: space-around;
+  border: 1px saddlebrown solid;
+  margin: 2px;
+  padding: 1px;
+  border-radius: 4px;
+}
+.sidebar {
+  background: rgb(206, 154, 154);
+  position: sticky;
+  top: 0;
+}
+.number {
+  font-weight: 600;
+  font-size: 2em;
+}
+.icon {
+  font-size: 2em;
+}

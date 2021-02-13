@@ -1,0 +1,16 @@
+.chart {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin: 5px;
+}
+.line-chart {
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
+.secondrow {
+  display: flex;
+  justify-content: space-around;
+  height: max-content;
+}
